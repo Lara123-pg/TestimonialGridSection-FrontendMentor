@@ -7,8 +7,9 @@
 Clone o projeto em seu dispositivo e acesse a pasta do mesmo
 
 ```
-$ git clone
-
+$ git clone https://github.com/Lara123-pg/TestimonialGridSection-FrontendMentor.git
+$ cd TestimonialGridSection-FrontendMentor
+$ code .  (Abrir o Visual Studio Code)
 ```
 
 # Projeto

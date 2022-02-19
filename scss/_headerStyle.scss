@@ -1,0 +1,13 @@
+@mixin headerStyle {
+    display: flex;
+    flex-direction: row;
+
+    padding: 20px;
+}
+
+@mixin headerImage {
+    border-radius: 55px;
+
+    width: auto;
+    height: 5%;
+}

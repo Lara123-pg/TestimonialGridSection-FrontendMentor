@@ -36,7 +36,8 @@ div.grid-section {
                 img.image {
                     @include headerImage;
 
-                    border: 3px solid $text-color1;
+                    border: 3px solid rgba(117, 65, 200, 0.5);
+                    
                 }
 
                 img.image2 {

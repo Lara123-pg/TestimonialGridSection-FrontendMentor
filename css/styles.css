@@ -32,7 +32,7 @@ div.grid-section main.main-content .post1 header img.image {
   border-radius: 55px;
   width: auto;
   height: 5%;
-  border: 3px solid white;
+  border: 3px solid rgba(117, 65, 200, 0.5);
 }
 div.grid-section main.main-content .post1 header img.image2 {
   height: 100%;

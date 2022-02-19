@@ -22,4 +22,4 @@ Lara Fernanda
 
 # Licença
 
-Este projeto está sob a licença MIT - Veja
+Este projeto está sob a licença MIT - Veja em https://github.com/Lara123-pg/TestimonialGridSection-FrontendMentor/blob/main/LICENSE

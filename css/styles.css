@@ -16,6 +16,7 @@ div.grid-section main.main-content {
   column-gap: 15px;
   row-gap: 15px;
   padding: 15px;
+  margin-top: 2.5rem;
 }
 div.grid-section main.main-content .post1 {
   border-radius: 12px;
@@ -92,7 +93,7 @@ div.grid-section main.main-content .post2 header div.name2 p.status2 {
 div.grid-section main.main-content .post2 h1 {
   color: white;
   font-weight: 600;
-  padding: 1em;
+  padding: 0 1em;
   padding-bottom: 0;
   padding-top: 0;
   font-size: 2rem;
@@ -131,7 +132,7 @@ div.grid-section main.main-content .post3 header div.name3 p.status3 {
 div.grid-section main.main-content .post3 h1 {
   color: #19212e;
   font-weight: 600;
-  padding: 1em;
+  padding: 0 1em;
   padding-bottom: 0;
   padding-top: 0;
   font-size: 2rem;
@@ -171,7 +172,7 @@ div.grid-section main.main-content .post4 header div.name4 p.status4 {
 div.grid-section main.main-content .post4 h1 {
   color: white;
   font-weight: 600;
-  padding: 1em;
+  padding: 0 1em;
   padding-bottom: 0;
   padding-top: 0;
   font-size: 2rem;
@@ -210,7 +211,7 @@ div.grid-section main.main-content .post5 header div.name5 p.status5 {
 div.grid-section main.main-content .post5 h1 {
   color: #19212e;
   font-weight: 600;
-  padding: 1em;
+  padding: 0 1em;
   padding-bottom: 0;
   padding-top: 0;
   font-size: 2rem;

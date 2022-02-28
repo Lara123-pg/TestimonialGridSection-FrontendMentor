@@ -10,6 +10,11 @@ html, body {
   font-family: "Barlow Semi Condensed", sans-serif;
 }
 
+div.grid-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 div.grid-section main.main-content {
   display: grid;
   grid-template-areas: "m1 m1 m2 m2 a1" "m3 m4 m4 m4 a1";
